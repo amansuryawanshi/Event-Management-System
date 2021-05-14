@@ -1,0 +1,61 @@
+.page-heading {
+    color: rgb(5, 69, 112);
+    margin-top: 20px;
+}
+
+span {
+    font-size: 15px;
+}
+
+.box-part a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.box-part a:hover {
+    color: blue;
+}
+
+.button {
+    background-color: darkorange;
+    border-radius: 50px;
+    font-weight: 400;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 1px rgb(255, 255, 255);
+}
+
+.button:hover {
+    background-color: darkorange;
+}
+
+.box {
+    padding: 60px 0px;
+}
+
+.box-part {
+    background: #dfe4e7;
+    border-radius: 30px;
+    padding: 60px 10px;
+    margin: 30px 0px;
+    color: rgb(167, 31, 31);
+}
+
+.box-part h4 {
+    color: black;
+}
+
+.box-part:hover {
+    border: solid rgb(255, 255, 255) 2px;
+    box-shadow: 0 5px 20px 0 rgba(238, 120, 10, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text {
+    margin: 20px 0px;
+}
+
+.fa {
+    color: #201d20;
+}
