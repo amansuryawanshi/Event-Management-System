@@ -104,9 +104,9 @@ To Install this project you need to have below mentioned prerequisites
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This can be used in Collages/university or by and event services company to promote the events or get registration from there.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation]_
 
 
 
